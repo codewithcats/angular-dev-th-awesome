@@ -13,3 +13,6 @@ Awesome links that have been placed in Angular Developer Thailand Facebook group
 - [Angular 2 and Redux](https://www.youtube.com/watch?v=LiJcw-iAGKQ) โพสโดยคุณ [Porawit Poboonma](https://www.facebook.com/ball6847)
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) สำหรับมือใหม่อยากเข้าใจ Reactive Programming
 - [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
+
+## Angular 1
+- [ngAnalytics](https://github.com/flyacts/ngAnalytics) AngularJS Directive for Google Analytics Embed API
